@@ -1,2 +1,3 @@
-# tpleducacion-api
-ScrumDev AI backend (tpleducacion-api)
+# TPLEDUCACION Backend
+
+Este es el backend de la plataforma TPLEDUCACION, desarrollado con FastAPI.
